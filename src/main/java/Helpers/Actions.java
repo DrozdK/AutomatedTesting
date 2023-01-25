@@ -38,14 +38,14 @@ public class Actions {
         return operation;
     }
 
-    public static double calculator(int fistNum, int secondNum, char operation) {
-        double result;
+    public static String calculator(int fistNum, int secondNum, char operation) {
+        String result;
         switch (operation) {
             case '+':
                 result = Operations.addition(fistNum, secondNum);
                 break;
             case '-':
-                result = Operations.substract(fistNum, secondNum);
+                result = Operations.subtract(fistNum, secondNum);
                 break;
             case '*':
                 result = Operations.multiplication(fistNum, secondNum);

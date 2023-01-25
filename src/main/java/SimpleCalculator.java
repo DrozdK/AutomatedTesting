@@ -7,7 +7,7 @@ public class SimpleCalculator {
             int fistNum = Actions.getFirstNumber();
             int secondNum = Actions.getSecondNumber();
             char operation = Actions.getOperation();
-            double result = Actions.calculator(fistNum, secondNum, operation);
+            String result = Actions.calculator(fistNum, secondNum, operation);
             System.out.println(TextHelper.RESULT_TEXT.getText() + result);
     }
 }

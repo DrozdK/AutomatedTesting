@@ -1,20 +1,31 @@
 package Helpers;
 
+import java.math.BigDecimal;
+import java.math.MathContext;
+
 public class Operations {
 
-    public static long addition (int firstNum, int secondNum) {
-         return (long) firstNum + (long) secondNum;
+    public static String addition (int firstNum, int secondNum) {
+        BigDecimal firstNumLong = new BigDecimal(firstNum);
+        BigDecimal secondNumLong = new BigDecimal(secondNum);
+         return firstNumLong.add(secondNumLong, MathContext.DECIMAL128).toString();
     }
 
-    public static int substract (int firstNum, int secondNum) {
-        return firstNum - secondNum;
+    public static String subtract (int firstNum, int secondNum) {
+        BigDecimal firstNumLong = new BigDecimal(firstNum);
+        BigDecimal secondNumLong = new BigDecimal(secondNum);
+        return firstNumLong.subtract(secondNumLong, MathContext.DECIMAL128).toString();
     }
 
-    public static long multiplication (int firstNum, int secondNum) {
-        return (long) firstNum * (long) secondNum;
+    public static String multiplication (int firstNum, int secondNum) {
+        BigDecimal firstNumLong = new BigDecimal(firstNum);
+        BigDecimal secondNumLong = new BigDecimal(secondNum);
+        return firstNumLong.multiply(secondNumLong, MathContext.DECIMAL128).toString();
     }
 
-    public static double divide (int firstNum, int secondNum) {
-        return (double) firstNum / (double) secondNum;
+    public static String divide (int firstNum, int secondNum) {
+        BigDecimal firstNumLong = new BigDecimal(firstNum);
+        BigDecimal secondNumLong = new BigDecimal(secondNum);
+        return firstNumLong.divide(secondNumLong, MathContext.DECIMAL128).toString();
     }
 }
