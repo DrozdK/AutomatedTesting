@@ -1,0 +1,52 @@
+                                ***GENERAL***
+
+1. Check that only integers number can be entered in the number entry field;
+2. Check that if an invalid number was entered, the user sees the validation;
+3. Check that only the operators "+", "-", "*", "/" can be entered;
+4. Verify that if the user enters an incorrect operator, he sees the validation;
+5. Check that if the user entered all the values correctly, the result is displayed in the console;
+6. Check that after entering an incorrect value the user can enter the value again;
+7. Check that the program stops after outputting the result.
+
+
+                               ***ADDITION***
+
+1. Check that the addition of the minimum numbers will give the correct result;
+2. Check that the addition of the maximum numbers will give the correct result;
+3. Check that the addition of the first positive and second negative operands will give the correct result;
+4. Check that the addition of the first negative and second posotive operands will give the correct result;
+5. Check that the addition of two negative operands will give the correct result;
+6. Check that the addition of two positive operands will give the correct result;
+7. Check that if the result is negative when adding it, it is displayed correctly.
+
+                               ***SUBTRACT***
+
+1. Check that the subtracting of the minimum numbers will give the correct result;
+2. Check that the subtracting of the maximum numbers will give the correct result;
+3. Check that the subtracting of the first positive and second negative operands will give the correct result;
+4. Check that the subtracting of the first negative and second posotive operands will give the correct result;
+5. Check that the subtracting of two negative operands will give the correct result;
+6. Check that the subtracting of two positive operands will give the correct result;
+7. Check that if the result is negative when subtracting it, it is displayed correctly.
+
+                               ***MULTIPLY***
+
+1. Check that the multiplying of the minimum numbers will give the correct result;
+2. Check that the multiplying of the maximum numbers will give the correct result;
+3. Check that the multiplying of the first positive and second negative operands will give the correct result;
+4. Check that the multiplying of the first negative and second posotive operands will give the correct result;
+5. Check that the multiplying of two negative operands will give the correct result;
+6. Check that the multiplying of two positive operands will give the correct result;
+7. Check that if the result is negative when multiplying it, it is displayed correctly.
+
+                                ***DIVIDE***
+
+1. Check that the dividing of the minimum numbers will give the correct result;
+2. Check that the dividing of the maximum numbers will give the correct result;
+3. Check that the dividing of the first positive and second negative operands will give the correct result;
+4. Check that the dividing of the first negative and second posotive operands will give the correct result;
+5. Check that the dividing of two negative operands will give the correct result;
+6. Check that the dividing of two positive operands will give the correct result;
+7. Check that if the result of division is a fractional number, the result is displayed correctly;
+8. Check that if the result is negative when dividing it, it is displayed correctly.
+
