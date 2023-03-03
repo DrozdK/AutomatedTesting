@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="groups">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="additional" />
+            <item index="1" class="java.lang.String" itemvalue="divide" />
+            <item index="2" class="java.lang.String" itemvalue="multiply" />
+            <item index="3" class="java.lang.String" itemvalue="subtract" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
