@@ -14,7 +14,7 @@
 1. Check that the addition of the minimum numbers will give the correct result;
 2. Check that the addition of the maximum numbers will give the correct result;
 3. Check that the addition of the first positive and second negative operands will give the correct result;
-4. Check that the addition of the first negative and second posotive operands will give the correct result;
+4. Check that the addition of the first negative and second positive operands will give the correct result;
 5. Check that the addition of two negative operands will give the correct result;
 6. Check that the addition of two positive operands will give the correct result;
 7. Check that if the result is negative when adding it, it is displayed correctly.
@@ -24,7 +24,7 @@
 1. Check that the subtracting of the minimum numbers will give the correct result;
 2. Check that the subtracting of the maximum numbers will give the correct result;
 3. Check that the subtracting of the first positive and second negative operands will give the correct result;
-4. Check that the subtracting of the first negative and second posotive operands will give the correct result;
+4. Check that the subtracting of the first negative and second positive operands will give the correct result;
 5. Check that the subtracting of two negative operands will give the correct result;
 6. Check that the subtracting of two positive operands will give the correct result;
 7. Check that if the result is negative when subtracting it, it is displayed correctly.
@@ -34,7 +34,7 @@
 1. Check that the multiplying of the minimum numbers will give the correct result;
 2. Check that the multiplying of the maximum numbers will give the correct result;
 3. Check that the multiplying of the first positive and second negative operands will give the correct result;
-4. Check that the multiplying of the first negative and second posotive operands will give the correct result;
+4. Check that the multiplying of the first negative and second positive operands will give the correct result;
 5. Check that the multiplying of two negative operands will give the correct result;
 6. Check that the multiplying of two positive operands will give the correct result;
 7. Check that if the result is negative when multiplying it, it is displayed correctly.
@@ -44,7 +44,7 @@
 1. Check that the dividing of the minimum numbers will give the correct result;
 2. Check that the dividing of the maximum numbers will give the correct result;
 3. Check that the dividing of the first positive and second negative operands will give the correct result;
-4. Check that the dividing of the first negative and second posotive operands will give the correct result;
+4. Check that the dividing of the first negative and second positive operands will give the correct result;
 5. Check that the dividing of two negative operands will give the correct result;
 6. Check that the dividing of two positive operands will give the correct result;
 7. Check that if the result of division is a fractional number, the result is displayed correctly;
